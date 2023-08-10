@@ -13,7 +13,7 @@ const Home = () => {
           <h1>GET CONNECTED<br/>The right way - toll<br/>Free number</h1>
           <p>Lorem Ipsum is simply dummy text of the printing and <br/>
           typesetting industry Lorem Ipsum has been the industry's<br/>
-           standard dummy text </p>
+           standard dummy text text industry </p>
            <button type="button" className="btn btn-outline-dark mt-3 px-3">
            CONTACT US NOW
          </button>
