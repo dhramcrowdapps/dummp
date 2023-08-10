@@ -1,0 +1,50 @@
+.navbar_heading{
+    background-color: lightslategray;
+}
+.nav-link:hover{
+ color: white;
+}
+.btn-outline-dark{
+    border-radius: 50px;
+}
+.btn-dark{
+    border-radius: 50px;
+}
+img, svg {
+    vertical-align:center;
+}
+.home{
+    padding-top: 180px;
+    padding-bottom: 135px;
+}
+.home_heading{
+    background-color: aliceblue;
+}
+a{
+    text-decoration: none;
+    list-style: none;
+    color: black;
+}
+.singupbutton [data-bs-popper]
+{
+    top: 100%;
+    left: 45%;
+    margin-top:0px;
+    width: 350px;
+}
+.dropdown-menu li {
+    position: relative;
+    }
+    .dropdown-menu .dropdown-submenu {
+    display: none;
+    position: absolute;
+    left: 100%;
+    top: -7px;
+    }
+    .dropdown-menu .dropdown-submenu-left {
+    right: 100%;
+    left: auto;
+    }
+    .dropdown-menu > li:hover > .dropdown-submenu {
+    display: block;
+    }
